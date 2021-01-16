@@ -1,0 +1,40 @@
+.back{
+
+    background:#6fa3af;
+ }
+ .logo{
+     width: 110px;
+ }
+ .body{
+    margin :0;
+    padding: 0;
+
+}
+.titulo{
+    color:whitesmoke;
+    font-family:monospace;
+    border: whitesmoke 5px double;
+    font-size: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+span{
+    padding:22px;
+    font-size:1.5rem;
+    font-family:monospace;
+    color:whitesmoke;
+}
+span:hover{
+   background:whitesmoke;
+    color: #6fa3af;
+    border-radius: 5px;
+}
+.nom{
+    width: 400px;
+    height: 80px;
+}
+.pad{
+
+    padding-right: 3rem ;
+}
